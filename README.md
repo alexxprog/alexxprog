@@ -31,29 +31,13 @@
 
 ---
 
-### 📈 GitHub Stats:
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexxprog&show_icons=true&theme=react&locale=en" alt="alexxprog" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexxprog&theme=react" alt="alexxprog" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexxprog&show_icons=true&locale=en&layout=compact" alt="alexxprog" />
-</p>
-
----
-
 ### 📫 Connect with me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/sulga-alexei/" target="_blank">
+  <a href="https://www.linkedin.com/in/sulga-alexei/" style="filter: invert(1);" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="sulga-alexei" height="30" width="40" />
   </a>
-  <a href="mailto:alexxprog@gmail.com">
+  <a href="mailto:alexxprog@gmail.com" style="filter: invert(1);">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="alexxprog@gmail.com" height="30" width="40" />
   </a>
 </p>
